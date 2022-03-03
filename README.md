@@ -4,5 +4,5 @@ Loading the dataset.
 Data cleaning and Data Manupulation.
 Analysing the performance of the players
 Analysing the income of the  players for the number of years and games they have played and finding how they are related.
-Exploratory Data Analysi.
+Exploratory Data Analysis.
 Visualizing the data.
