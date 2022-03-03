@@ -13,8 +13,8 @@
 
 ## Findings from the Analysis
 -The highest number of games played by the player was 2729 games and the average games played by a player was 645 games.
--The average home runs of the player is 54 ans there are 106 players whose home rus are is higher than the average.
+-The average home runs of the player is 54 and there are 106 players whose home runs are  higher than the average.
 -Most of the players played in outfield position.
--The player in firstbase positions earned more compare to the other position players.
--from the correlation matrix the team payroll does not related much to the other data.
--From these analysis we could find that the salary earned by the players does not depend much on the years and the games they played.
+-The player in firstbase position earned more compare to the other position players.
+-From the correlation matrix the team payroll does not related much to the other data.
+-From this analysis we could find that the salary earned by the players does not depend much on the years and the games they played but it depends on the performance of the players.
