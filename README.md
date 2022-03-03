@@ -1,4 +1,4 @@
-# Project 1: Income Analysis of players
+# [Project 1: Income Analysis of players](https://github.com/lathapriya17/Lathapriya-Portfolio)
 -Major League Baseball: mlb.csv . Data on salaries and other information (such as race, position and performance information) on baseball players in MLB in 1993.
 -Loading the dataset.
 -Data cleaning and Data Manupulation.
