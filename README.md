@@ -6,3 +6,4 @@
 -Analysing the income of the  players for the number of years and games they have played and finding how they are related.
 -Exploratory Data Analysis.
 -Visualizing the data.
+![Players pie chart](https://user-images.githubusercontent.com/52881963/156644390-05a72a67-9008-46ec-be74-1531b8862e7b.png)
