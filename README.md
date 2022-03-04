@@ -32,3 +32,9 @@ The content of this dataset contains information about approx 21000 used cars sc
 source of the dataset: https://www.kaggle.com/saisaathvik/used-cars-dataset-from-cardekhocom?select=cardekho_updated.csv
 <br />
 Context of this dataset comprises used cars sold on cardehko.com in India as well as important features of these cars.
+
+![top brands](https://user-images.githubusercontent.com/52881963/156768574-b3899f72-9ce7-483b-b4d8-f5ffab1db4d7.png)
+
+![car fuel type](https://user-images.githubusercontent.com/52881963/156768600-75a64518-eb82-4f11-a7b2-5acbc039f23b.png)
+
+
