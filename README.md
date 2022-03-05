@@ -11,7 +11,7 @@
 
 ![Players pie chart](https://user-images.githubusercontent.com/52881963/156644390-05a72a67-9008-46ec-be74-1531b8862e7b.png)
 
-### Findings from the Analysis
+### Findings 
 * The highest number of games played by the player was 2729 games and the average games played by a player was 645 games.
 * The average home runs of the player is 54 and there are 106 players whose home runs are  higher than the average.
 * Most of the players played in outfield position.
@@ -36,5 +36,6 @@ Context of this dataset comprises used cars sold on cardehko.com in India as wel
 ![top brands](https://user-images.githubusercontent.com/52881963/156768574-b3899f72-9ce7-483b-b4d8-f5ffab1db4d7.png)
 
 ![car fuel type](https://user-images.githubusercontent.com/52881963/156768600-75a64518-eb82-4f11-a7b2-5acbc039f23b.png)
+
 
 
